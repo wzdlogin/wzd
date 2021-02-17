@@ -1,0 +1,18 @@
+#include<iostream>
+using namespace std;
+int main()
+{
+int a,b,c,d,;
+cin>>a;
+cin>>b;
+cin>>d;
+if (d==1)
+{
+c=a+b;
+}
+else
+{
+c=a-b;
+}
+cout<<"intput is"<<a<<b<<"out"<<c<<endl;
+}
